@@ -49,6 +49,8 @@ Utilizamos um ecossistema moderno e open-source para garantir liberdade, perform
 </p>
 ---
 
+---
+
 ## 🔄 Nosso Processo de Trabalho
 
 - **1️⃣ Escopo Livre:** Ouvimos sua ideia e desenhamos a arquitetura do zero. Sem plataformas de terceiros ditando as regras.
@@ -56,13 +58,6 @@ Utilizamos um ecossistema moderno e open-source para garantir liberdade, perform
 - **3️⃣ Deploy e Entrega:** Configuramos os servidores, subimos o banco de dados e entregamos o produto final em pleno funcionamento.
 
 ---
-
-## 📊 Nossos Códigos
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_OU_ORG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_OU_ORG&layout=compact&langs_count=5&theme=dracula"/>
-</div>
 
 <p align="center">
   <i>Código limpo, arquitetura robusta e soluções sem limites.</i>
